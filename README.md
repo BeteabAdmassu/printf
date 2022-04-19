@@ -48,4 +48,4 @@ int main(void)
 }
 
 # Authors:
-Kalkidan Demes and Yosef Kefyalew
+Beteab Admasu and Yitbarek Yakob
